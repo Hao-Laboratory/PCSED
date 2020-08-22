@@ -1,0 +1,3 @@
+Running finished!
+| train loss using trained curves: 0.00014 | train loss using designed curves: 0.00114 | train loss using noised curves: 0.00126
+| test loss using trained curves: 0.00014 | test loss using designed curves: 0.00114 | test loss using noised curves: 0.00126

@@ -1,0 +1,61 @@
+﻿Epoch:  0 | train loss: 0.07910 | test loss: 0.12058 | learn rate: 0.00100000
+Epoch:  20 | train loss: 0.02922 | test loss: 0.03611 | learn rate: 0.00100000
+Epoch:  40 | train loss: 0.02157 | test loss: 0.02681 | learn rate: 0.00100000
+Epoch:  60 | train loss: 0.01909 | test loss: 0.02450 | learn rate: 0.00100000
+Epoch:  80 | train loss: 0.01498 | test loss: 0.02202 | learn rate: 0.00100000
+Epoch:  100 | train loss: 0.01370 | test loss: 0.02044 | learn rate: 0.00080000
+Epoch:  120 | train loss: 0.01325 | test loss: 0.01951 | learn rate: 0.00080000
+Epoch:  140 | train loss: 0.01228 | test loss: 0.01948 | learn rate: 0.00080000
+Epoch:  160 | train loss: 0.01181 | test loss: 0.01907 | learn rate: 0.00080000
+Epoch:  180 | train loss: 0.01238 | test loss: 0.01887 | learn rate: 0.00080000
+Epoch:  200 | train loss: 0.01112 | test loss: 0.01889 | learn rate: 0.00064000
+Epoch:  220 | train loss: 0.01113 | test loss: 0.01815 | learn rate: 0.00064000
+Epoch:  240 | train loss: 0.01111 | test loss: 0.01825 | learn rate: 0.00064000
+Epoch:  260 | train loss: 0.01122 | test loss: 0.01803 | learn rate: 0.00064000
+Epoch:  280 | train loss: 0.01105 | test loss: 0.01811 | learn rate: 0.00064000
+Epoch:  300 | train loss: 0.01065 | test loss: 0.01817 | learn rate: 0.00051200
+Epoch:  320 | train loss: 0.01091 | test loss: 0.01818 | learn rate: 0.00051200
+Epoch:  340 | train loss: 0.01007 | test loss: 0.01780 | learn rate: 0.00051200
+Epoch:  360 | train loss: 0.01058 | test loss: 0.01810 | learn rate: 0.00051200
+Epoch:  380 | train loss: 0.01078 | test loss: 0.01794 | learn rate: 0.00051200
+Epoch:  400 | train loss: 0.00994 | test loss: 0.01784 | learn rate: 0.00040960
+Epoch:  420 | train loss: 0.01055 | test loss: 0.01775 | learn rate: 0.00040960
+Epoch:  440 | train loss: 0.01039 | test loss: 0.01756 | learn rate: 0.00040960
+Epoch:  460 | train loss: 0.01017 | test loss: 0.01773 | learn rate: 0.00040960
+Epoch:  480 | train loss: 0.00965 | test loss: 0.01800 | learn rate: 0.00040960
+Epoch:  500 | train loss: 0.01024 | test loss: 0.01779 | learn rate: 0.00032768
+Epoch:  520 | train loss: 0.01032 | test loss: 0.01785 | learn rate: 0.00032768
+Epoch:  540 | train loss: 0.01002 | test loss: 0.01755 | learn rate: 0.00032768
+Epoch:  560 | train loss: 0.00959 | test loss: 0.01777 | learn rate: 0.00032768
+Epoch:  580 | train loss: 0.01034 | test loss: 0.01785 | learn rate: 0.00032768
+Epoch:  600 | train loss: 0.00969 | test loss: 0.01761 | learn rate: 0.00026214
+Epoch:  620 | train loss: 0.01012 | test loss: 0.01768 | learn rate: 0.00026214
+Epoch:  640 | train loss: 0.00978 | test loss: 0.01774 | learn rate: 0.00026214
+Epoch:  660 | train loss: 0.00976 | test loss: 0.01779 | learn rate: 0.00026214
+Epoch:  680 | train loss: 0.00994 | test loss: 0.01773 | learn rate: 0.00026214
+Epoch:  700 | train loss: 0.00995 | test loss: 0.01764 | learn rate: 0.00020972
+Epoch:  720 | train loss: 0.00977 | test loss: 0.01767 | learn rate: 0.00020972
+Epoch:  740 | train loss: 0.00978 | test loss: 0.01757 | learn rate: 0.00020972
+Epoch:  760 | train loss: 0.00967 | test loss: 0.01748 | learn rate: 0.00020972
+Epoch:  780 | train loss: 0.00982 | test loss: 0.01762 | learn rate: 0.00020972
+Epoch:  800 | train loss: 0.00934 | test loss: 0.01765 | learn rate: 0.00016777
+Epoch:  820 | train loss: 0.00964 | test loss: 0.01749 | learn rate: 0.00016777
+Epoch:  840 | train loss: 0.00975 | test loss: 0.01758 | learn rate: 0.00016777
+Epoch:  860 | train loss: 0.00963 | test loss: 0.01761 | learn rate: 0.00016777
+Epoch:  880 | train loss: 0.00988 | test loss: 0.01764 | learn rate: 0.00016777
+Epoch:  900 | train loss: 0.01015 | test loss: 0.01758 | learn rate: 0.00013422
+Epoch:  920 | train loss: 0.00997 | test loss: 0.01757 | learn rate: 0.00013422
+Epoch:  940 | train loss: 0.00956 | test loss: 0.01754 | learn rate: 0.00013422
+Epoch:  960 | train loss: 0.00927 | test loss: 0.01756 | learn rate: 0.00013422
+Epoch:  980 | train loss: 0.01003 | test loss: 0.01761 | learn rate: 0.00013422
+Epoch:  1000 | train loss: 0.01005 | test loss: 0.01761 | learn rate: 0.00010737
+Training time: 59s (0h00m59s)
+Physical parameters of curve in figure 'train.png':
+tensor([400.0000, 162.5000, 162.5000, 325.0000])
+Designed parameters of curve in figure 'train.png':
+tensor([396.4345, 162.2870, 161.8097, 326.5343], grad_fn=<AddBackward0>)
+Physical parameters of curve in figure 'test.png':
+tensor([250.0000, 150.0000,  50.0000, 387.5000])
+Designed parameters of curve in figure 'test.png':
+tensor([251.1347, 149.6001,  54.0674, 386.5686], grad_fn=<AddBackward0>)
+Training finished! | loss in figure 'train.png': 0.00329 | loss in figure 'test.png': 0.00261

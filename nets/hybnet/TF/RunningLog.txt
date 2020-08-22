@@ -1,0 +1,3 @@
+Running finished!
+| train loss using trained curves: 0.00007 | train loss using designed curves: 0.00046
+| test loss using trained curves: 0.00007 | test loss using designed curves: 0.00046
