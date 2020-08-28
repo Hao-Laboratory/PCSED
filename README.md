@@ -8,18 +8,17 @@ hsnet -- SED
 hybnet -- PCSED  
 rnet -- IDN (inverse design network)  
 ## Folders:
-data -- 
-nets -- 
+data -- dataset folder. We did not upload the dataset because it exceeds the Github repository storage limit. You can download it from the following url and copy them to this folder then the scripts should work correctly.  
+nets -- the folder for storaging the networks and the generated data.
 ## Files:
 HybridNet.py -- PCSED definition.  
 PSNR.py -- MSE to PSNR transformation function definitions.  
-redesign_hsnet.py -- 
-run_fnet.py -- 
-run_hsnet.py -- 
-run_hybnet.py -- 
-show_HSI_error.py -- 
-train_fnet.py -- 
-train_hsnet.py -- 
-train_hybnet_Meta.py -- 
-train_hybnet_TF.py -- 
-train_tnet.py -- 
+run_fnet.py -- run the trained FMN.  
+run_hsnet.py -- run the trained SED.  
+run_hybnet.py -- run the trained PCSED.  
+show_HSI_error.py -- plot the hyperspectral image (HSI) reconstruction results of PCSED and SED.  
+train_fnet.py -- train an FMN.  
+train_hsnet.py -- train a SED.  
+train_hybnet_Meta.py -- train a PCSED.  
+train_tnet.py -- train an IDN using a tandem neural network architecture (proposed in Ref. [18] in the main text).  
+redesign_hsnet.py -- re-design the ROFs of the SED. This script is for designing the ROFs using a different material (metasurface or thin-film) to match the same target spectral responses.
