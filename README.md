@@ -2,13 +2,13 @@
 This is the implementation of the "parameter constrained spectral encoder and decoder (PCSED)" introduced in the article "Deep-Learned Random Optical Filters for Spectroscopic Instruments".
 # Instructions
 ## Variables:
-The names of the variables are not consistant with the concepts in the paper. Here are the matchups (the variable name in the left corresponds to the concept in paper in the right):  
+The names of the variables are not consistant with those concepts in the paper. Here are the matchups (the variable name in the left corresponds to the concept in paper in the right):  
 fnet -- FMN  
 hsnet -- SED  
 hybnet -- PCSED  
 rnet -- IDN (inverse design network)  
 ## Folders:
-data -- dataset folder. We did not upload the dataset because it exceeds the Github repository storage limit. You can download it from https://xxx to this folder and the scripts should work correctly.  
+data -- dataset folder. We did not upload the dataset because it exceeds the Github repository storage limit. You can download the demonstration dataset from https://xxx and copy it to this folder, then the scripts should work correctly.  
 nets -- the folder for storaging the networks and the generated data.
 ## Files:
 HybridNet.py -- PCSED definition.  
