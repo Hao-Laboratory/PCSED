@@ -8,7 +8,7 @@ hsnet -- SED
 hybnet -- PCSED  
 rnet -- IDN (inverse design network)  
 ## Folders:
-data -- dataset folder. We did not upload the dataset because it exceeds the Github repository storage limit. You can download it from https://xxx and copy them to this folder and then the scripts should work correctly.  
+data -- dataset folder. We did not upload the dataset because it exceeds the Github repository storage limit. You can download it from https://xxx to this folder and the scripts should work correctly.  
 nets -- the folder for storaging the networks and the generated data.
 ## Files:
 HybridNet.py -- PCSED definition.  
