@@ -246,7 +246,7 @@ for cmp in cmp_list:
     fig = plt.figure() # HSI Reconstruction Error
 
     if cmp == 'HSI_error_designed':
-        figLabels = ['(d)', '(e)', '(f)', '(g)', '(h)']
+        figLabels = ['(a)', '(b)', '(c)', '(d)', '(e)']
         for i in range(5):
             fig.text(0.095, 0.885 - i * 0.147, figLabels[i],
                     horizontalalignment='center',
