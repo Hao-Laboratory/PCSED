@@ -1,5 +1,5 @@
 # Introduction
-This is the implementation of the "parameter constrained spectral encoder and decoder (PCSED)" introduced in the article "Deep-Learned Broadband Encoding Stochastic Filters for Computational Spectroscopic Instruments".
+This is the implementation of the "parameter constrained spectral encoder and decoder (PCSED)" introduced in the paper "Deep-Learned Broadband Encoding Stochastic Filters for Computational Spectroscopic Instruments". Paper URL: https://doi.org/10.1002/adts.202000299
 # Instructions
 ## Variables:
 The names of the variables are not consistant with those concepts in the paper. Here are the matchups (the variable name in the left corresponds to the concept in paper in the right):  
